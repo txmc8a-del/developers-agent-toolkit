@@ -1,0 +1,126 @@
+[Research summary](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/research-summary/index.md)
+  - [Prepare for launch](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/prepare-for-launch/index.md)
+  - [Moments that matter](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/moments-that-matter/index.md)
+  - [Person-to-person transfers](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/index.md)
+  - [Metrics](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/prepare-for-launch/metrics/index.md)
+  - [Business-to-person transfers](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/index.md)
+  - [Testing plan](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/prepare-for-launch/testing-plan/index.md)
+  - [Go-Live checklist](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/prepare-for-launch/go-live-checklist/index.md)
+  - [Manage recipients](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/manage-recipients/index.md)
+  - [Manage recipients](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/manage-recipients/index.md)
+  - [Payment without Quote](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/payment-without-quote/index.md)
+  - [Transfer money to a card](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/transfer-money-to-card/index.md)
+  - [Payment without Quote](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/payment-without-quote/index.md)
+  - [Disburse money to a card](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/disburse-money-to-card/index.md)
+  - [Payment with Carded Rate](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/payment-with-carded-rate/index.md)
+  - [Payment with Carded Rate](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/payment-with-carded-rate/index.md)
+  - [Transfer money to a bank account](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/transfer-money-to-bank-account/index.md)
+  - [Transfer money to a digital wallet](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/transfer-money-to-digital-wallet/index.md)
+  - [View transaction history and payment status](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/view-tran-history-payment-status/index.md)
+  - [Disburse money to a bank account](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/disburse-money-to-bank-account/index.md)
+  - [View transaction history and payment status](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/view-tran-history-payment-status/index.md)
+  - [Disburse money to a digital wallet](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/disburse-money-to-digital-wallet/index.md)
+  - [Transfer money to an existing recipient](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/transfer-money-to-existing-recipient/index.md)
+  - [Disburse money to an existing recipient](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/disburse-money-to-existing-recipient/index.md)
+  - [Transfer money to a cash pick-up location](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/person-to-person-transfers/transfer-money-to-cash-pick-up-location/index.md)
+  - [Disburse money to a cash pick-up location](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/business-to-person-transfers/disburse-money-to-cash-pick-up-location/index.md)
+- [Reference Application](https://developer.mastercard.com/cross-border-services/documentation/ref-app/index.md)
+  - [Reference Application Tutorial using OAuth1.0A](https://developer.mastercard.com/cross-border-services/documentation/ref-app/reference-app-tutorial/index.md)
+  - [Reference Application Tutorial for Access Token based OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/ref-app/oauth2-reference-app-tutorial-access-token/index.md)
+  - [Reference Application Tutorial for Request Token based OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/ref-app/oauth2-reference-app-tutorial-request-token/index.md)
+- [Response Codes and Error codes](https://developer.mastercard.com/cross-border-services/documentation/response-error-codes/index.md)
+  - [Timeouts](https://developer.mastercard.com/cross-border-services/documentation/response-error-codes/timeouts/index.md)
+  - [Resources](https://developer.mastercard.com/cross-border-services/documentation/response-error-codes/resources/index.md)
+  - [Error and Return Message Codes](https://developer.mastercard.com/cross-border-services/documentation/response-error-codes/error-codes/index.md)
+  - [Return Messages](https://developer.mastercard.com/cross-border-services/documentation/response-error-codes/return-message/index.md)
+  - [HTTP Response Codes](https://developer.mastercard.com/cross-border-services/documentation/response-error-codes/http-response-codes/index.md)
+  - [Cross-Border System Errors](https://developer.mastercard.com/cross-border-services/documentation/response-error-codes/cross-border-system/index.md)
+- [Support](https://developer.mastercard.com/cross-border-services/documentation/support/index.md)
+  - [Cash Pick-Up Location Details](https://developer.mastercard.com/cross-border-services/documentation/support/cash-out-locations-details/index.md)
+  - [Settlement Holiday Calendar](https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/holiday-calendars/index.md)
+- [Tutorials and Guides](https://developer.mastercard.com/cross-border-services/documentation/tutorials/index.md)
+  - [API Tutorial using OAuth1.0A](https://developer.mastercard.com/cross-border-services/documentation/tutorials/api-sdk-tutorial/index.md)
+  - [Quick Start Guide](https://developer.mastercard.com/cross-border-services/documentation/tutorials/guide-create-project/index.md)
+  - [Production Access Guide](https://developer.mastercard.com/cross-border-services/documentation/tutorials/guide-move-to-production/index.md)
+  - [API Tutorial for Access Token based OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/tutorials/oauth2-api-sdk-tutorial-access-token/index.md)
+  - [API Tutorial for Request Token Based OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/tutorials/oauth2-api-sdk-tutorial-request-token/index.md)
+- [Use Cases](https://developer.mastercard.com/cross-border-services/documentation/use-cases/index.md)
+  - [Payment (without Quote or Carded Rate)](https://developer.mastercard.com/cross-border-services/documentation/use-cases/payment/index.md)
+  - [Payment with Quote](https://developer.mastercard.com/cross-border-services/documentation/use-cases/payment-with-quote/index.md)
+  - [Payment with Carded Rate](https://developer.mastercard.com/cross-border-services/documentation/use-cases/payment-with-carded-rate/index.md)
+[Payment with Quote](https://developer.mastercard.com/cross-border-services/documentation/use-cases/payment-with-quote/index.md)
+  - [Payment with Carded Rate](https://developer.mastercard.com/cross-border-services/documentation/use-cases/payment-with-carded-rate/index.md)
+
+***
+
+# Mastercard Cross-Border Services
+source: https://developer.mastercard.com/cross-border-services/documentation/index.md
+
+## Overview {#overview}
+
+Note: This documentation is for the developers and technical managers who want to integrate with Cross-Border Services to deliver a fund transfer solution. For program details, rules and further implementation guidance, contact your Mastercard representative.
+
+Cross-Border Services is a global payment service that provides access to faster, transparent payments between Senders and Recipients through multiple channels and payout methods. Cross-Border Services provides:
+
+* A technical system interface for Customers to initiate Transactions to approved Receiving Territories
+* Wholesale and retail Foreign Exchange (FX) rates and fees
+* Customer support to the Customer for Transaction, settlement, and reconciliation reporting
+* Settlement services between the Customer and Mastercard
+* For certain Customers, pricing and rate mechanisms to determine up-front pricing information for Senders
+
+<br />
+
+Supported customer payment transfer types include:
+
+* Person to Person (P2P)
+* Business to Person (B2P)
+* Business to Business (B2B)
+* Person to Business (P2B)
+
+The [use cases](https://developer.mastercard.com/cross-border-services/documentation/use-cases/index.md) describe how Cross-Border Services APIs facilitate the supported transaction types.
+
+## Who can use it {#who-can-use-it}
+
+A financial institution or third party provider (who represents financial institution) that will connect to Cross-Border Services **directly** to initiate fund transfers for its customers.
+
+## How it works {#how-it-works}
+
+The Cross-Border Service APIs enable financial institutions and partners to build flexible solutions that support many different funds transfer and payment types via a single connection to Mastercard. For these transfers, an Originating Institution (such as an Acquirer or Issuer) acts on behalf of the Sender to send funds to a Receiving System, which holds the Recipient's account. Depending on the type of transfer, Senders and Recipients may include consumers, businesses, non-profit organizations, mobile money agents and cash out locations.
+
+![](https://static.developer.mastercard.com/content/cross-border-services/documentation/images/HowItWorks1.png)
+Note: The diagram above illustrates a Customer that is an Originating Institution sending funds on behalf of its Senders.
+
+## Next steps {#next-steps}
+
+1. Take a look at the [Use Cases](https://developer.mastercard.com/cross-border-services/documentation/use-cases/index.md) to understand how the Cross-Border Service APIs facilitate the supported transaction types.
+
+2. Look at the [API Basics](https://developer.mastercard.com/cross-border-services/documentation/api-basics/index.md) to learn about the Mastercard environments and the required project keys.
+
+3. When you are ready to use the APIs, see [Getting Started with the APIs](https://developer.mastercard.com/cross-border-services/documentation/getting-started/index.md) for information on connecting to the Cross-Border Service APIs.
+
+4. Use the [API Reference](https://developer.mastercard.com/cross-border-services/documentation/api-ref/index.md) information for the APIs you want to use, to see details of the fields and values relevant to the transaction types you are supporting.
+
+5. Try out the [Tutorials](https://developer.mastercard.com/cross-border-services/documentation/tutorials/index.md) if you need help on how to make API calls to the Cross-Border Service APIs in the Sandbox environment.
+
+
+---
+
+# Reference Application
+source: https://developer.mastercard.com/cross-border-services/documentation/ref-app/index.md
+
+You may connect to the Mastercard Cross-Border Services APIs either using a **REST client**.
+Below tutorials illustrates the available options to connect to the Cross-Border Service APIs in the Sandbox environment with OAuth1.0A and OAuth2.0:
+
+| Authentication Mechanism |      Option       |            APIs             |                                                                                          Tutorials                                                                                           |
+|--------------------------|-------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OAuth1.0A                | using REST client | All APIs                    | [Reference Application Tutorial using OAuth1.0A](https://developer.mastercard.com/cross-border-services/documentation/ref-app/reference-app-tutorial/index.md)                               |
+| OAuth2.0                 | using REST client | All APIs except Balance API | [Reference Tutorial for Request Token based OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/ref-app/oauth2-reference-app-tutorial-request-token/index.md)     |
+| OAuth2.0                 | using REST client | Balance API                 | [Reference Tutorial for Authorization Code based OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/ref-app/oauth2-reference-app-tutorial-access-token/index.md) |
+
+Alert: If you are a Customer contracted with MTS EU or MTS UK, you must connect using [OAuth2.0 Authorization Code flow](https://developer.mastercard.com/cross-border-services/documentation/oauth2-access-token-based-authentication-details/index.md) for Balance API and [OAuth2.0 Request Token based flow](https://developer.mastercard.com/cross-border-services/documentation/oauth2-request-token-based-authentication-details/index.md) for all APIs (except Balance API) as the authentication mechanism to ensure compliance with the relevant jurisdiction based Regulatory Technical Standards (either EU or UK) derived from the Revised Payment Services Directive (PSD2).  
+
+You may look at [Getting Started with APIs using OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/api-basics/getting-started-oauth2/index.md) for step by step instructions on how to setup with OAuth2.0.
+
+These tutorials show how you could use the Cross-Border Service APIs, but they do not prescribe the design and interactions of your funds transfer solution; those aspects are for you to define.
+
+---
