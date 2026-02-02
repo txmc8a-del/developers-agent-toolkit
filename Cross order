@@ -1,0 +1,69 @@
+---
+title: Mastercard Cross-Border Services
+service_id: cross-border-services
+auth_type: OAuth1.0a
+source_url:
+  - html: https://developer.mastercard.com/cross-border-services/documentation/
+  - md: https://developer.mastercard.com/cross-border-services/documentation/index.md
+api_specification(s): 
+  - https://developer.mastercard.com/cross-border-services/swagger/endpoint-guide-adapter-swagger-eu.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/cross-border-pre-notification-webhook-swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/endpoint-guide-adapter-swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/quoteapi_eu_swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/quoteapi_uk_swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/address_validation_service_uk_swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/bank_account_validation_swagger_uk.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/bank_account_validation_swagger_eu.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/cross-border-webhook-swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/address_validation_service_eu_swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/RFI+Spec-uk.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/bank_account_validation_swagger_V2.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/address_validation_service_swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/RFI+Spec.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/cross-border-eu-swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/quoteapi_swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/cross-border-swagger.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/RFI+Spec-eu.yaml
+  - https://developer.mastercard.com/cross-border-services/swagger/cross-border-uk-swagger.yaml
+---
+
+Overview: Cross Border Services is a global payment service that provides access to faster, transparent payments between Senders and Recipients through multiple channels and payout methods. Mastercard Cross Border's supported services include the following: a technical system interface to initiate transactions, wholesale and retail foreign exchange rates and fees, customer support, settlement services between the customer and Mastercard, pricing and rate mechanism to determine up-front pricing information. Payment transfer types include the following: person-to-person (P2P), person-to-business (P2B), business-to-business (B2B), and business-to-person (B2P). Why it matters: The financial services industry faces growing global demand for more practical, digital solutions for cross-border payments. Cross-Border Services offers solutions for the evolving world of work, commerce and technologies, changing how money moves – both within countries and across borders – and fueling the need for a simple, scalable, trusted way for people and businesses to transact with confidence.  Customers are able to integrate with Cross-Border Services through APIs, payment files or SWIFT.
+
+- [Mastercard Cross-Border Services](https://developer.mastercard.com/cross-border-services/documentation/index.md)
+- [API Additional Resources](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/index.md)
+  - [ISO Country Codes](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/common-iso-country/index.md)
+  - [ISO Currency Codes](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/common-iso-currency/index.md)
+  - [ Government ID URI](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/common-government-uri/index.md)
+  - [Sender Account URI](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/common-sender-acct-uri/index.md)
+  - [Date and Time Format](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/common-datetime-format/index.md)
+  - [Additional Data Fields](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/common-additional-data/index.md)
+  - [Recipient Account URI](https://developer.mastercard.com/cross-border-services/documentation/additional-resources/common-recipient-acct-uri/index.md)
+- [API Basics](https://developer.mastercard.com/cross-border-services/documentation/api-basics/index.md)
+  - [API Security](https://developer.mastercard.com/cross-border-services/documentation/api-basics/api-security/index.md)
+  - [Environments](https://developer.mastercard.com/cross-border-services/documentation/api-basics/environments/index.md)
+  - [API Conventions](https://developer.mastercard.com/cross-border-services/documentation/api-basics/api-conventions/index.md)
+  - [Getting Started with the APIs using OAuth2.0](https://developer.mastercard.com/cross-border-services/documentation/api-basics/getting-started-oauth2/index.md)
+  - [Getting Started with the APIs using OAuth1.0A](https://developer.mastercard.com/cross-border-services/documentation/api-basics/getting-started-oauth1a/index.md)
+- [API Reference](https://developer.mastercard.com/cross-border-services/documentation/api-ref/index.md)
+  - [RFI APIs](https://developer.mastercard.com/cross-border-services/documentation/api-ref/rfi-apis/index.md)
+  - [Payload Encryption](https://developer.mastercard.com/cross-border-services/documentation/api-ref/encryption/index.md)
+  - [Quotes API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/quotes-api/index.md)
+  - [Payment API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/payment-api/index.md)
+  - [Balance API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/balance-api/index.md)
+  - [Carded Rate Pull API and Carded Rate Push](https://developer.mastercard.com/cross-border-services/documentation/api-ref/carded-rate-api/index.md)
+  - [Direct Debit Webhook API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/direct-debit-api/index.md)
+  - [Status Change Push](https://developer.mastercard.com/cross-border-services/documentation/api-ref/status-change-api/index.md)
+  - [Cancel Payment API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/cancel-payment-api/index.md)
+  - [Retrieve Payment API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/retrieve-payment-api/index.md)
+  - [Notification](https://developer.mastercard.com/cross-border-services/documentation/api-ref/rfi-apis/notification/index.md)
+  - [Address Validation API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/address-validation-api/index.md)
+  - [Quote Confirmation APIs](https://developer.mastercard.com/cross-border-services/documentation/api-ref/quote-confirmation-apis/index.md)
+  - [Validation Services](https://developer.mastercard.com/cross-border-services/documentation/api-ref/validation-services-api/index.md)
+  - [Endpoint Guide API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/endpoint-guide-adapter_api/index.md)
+  - [Push Notifications Details](https://developer.mastercard.com/cross-border-services/documentation/api-ref/push-notifications-details/index.md)
+  - [Update Request API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/rfi-apis/update-request-api/index.md)
+  - [Upload Document API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/rfi-apis/upload-document-api/index.md)
+  - [Retrieve Request API ](https://developer.mastercard.com/cross-border-services/documentation/api-ref/rfi-apis/retrieve-request-api/index.md)
+  - [Download Document API](https://developer.mastercard.com/cross-border-services/documentation/api-ref/rfi-apis/download-document-api/index.md)
+- [Bulletins and Release Announcements](https://developer.mastercard.com/cross-border-services/documentation/bulletin-announcements/index.md)
+- [Experience Design Guide](https://developer.mastercard.com/cross-border-services/documentation/experience-design-guide/index.md)
