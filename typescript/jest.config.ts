@@ -87,23 +87,23 @@ Email address
 373708623186001
 2029/ 12
 7777
-Masterpass_Merchant_SBX_1@mailinator.com
+txmc8a@gmail.com
 372280864074008
 2029 / 12
 7777
-Masterpass_Merchant_SBX_2@mailinator.com
+txmc8a@gmail.com
 377222581193005
 2029/ 12
 7777
-Masterpass_Merchant_SBX_3@mailinator.com
+txmc8a@gmail.com
 372399427875006
 2029 / 12
 7777
-Masterpass_Merchant_SBX_4@mailinator.com
+txmc8a@gmail.com
 371316662951004
 2029/ 12
 7777
-Masterpass_Merchant_SBX_5@mailinator.com
+txmc8a@gmail.com
 Discover Test Cards
 Test Cards to Receive PAN Data or Token Data
 Card Type
